@@ -1,0 +1,12 @@
+
+.header {
+  background-color: rgb(44, 44, 117);
+  color: whitesmoke;
+}
+.header button {
+  background-color: whitesmoke;
+  color: rgb(44, 44, 117);
+}
+.menu {
+  margin-left: 1100px;
+}
