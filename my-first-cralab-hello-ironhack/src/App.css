@@ -2,14 +2,31 @@
 .header {
   background-color: rgb(44, 44, 117);
   color: whitesmoke;
+  padding-left: 50px;
+  padding-bottom: 50px;
 }
 .header button {
   background-color: whitesmoke;
   color: rgb(44, 44, 117);
+}
+h1 {
+  margin-top: 50px;
 }
 .menu {
   margin-left: 1100px;
 }
 .footer-imgs {
   text-align: center;
+}
+/* .footer-container {
+  display: flex;
+  flex-direction: row;
+} */
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.column {
+  flex-direction: column;
 }

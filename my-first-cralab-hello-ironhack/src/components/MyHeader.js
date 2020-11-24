@@ -13,7 +13,7 @@ function MyHeader() {
             <p>You will learn to use</p>
             <p>the most popular frontend library</p>
             <p>and become a super Ninja developer.</p>
-            <button>Awesome!</button>
+            <button className="btn btn-secondary">Awesome!</button>
         </div>
     )
 }
